@@ -14,7 +14,6 @@ This will setup everything needed for running the CMS:
 * Full Continuous Deployment to Netlify's global CDN network
 * Control users and access with Netlify Identity
 * Manage content with Netlify CMS
-![employee6.jpg]({{site.baseurl}}/employee6.jpg)
 
 Once the initial build finishes, you can invite yourself as a user. Go to the Identity tab in your new site, click "Invite" and send yourself an invite.
 
